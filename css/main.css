@@ -1,4 +1,8 @@
 /* Final version */
+@font-face {
+	font-family: 'Wisdom Script';
+	src: url('../fonts/wisdom-script.otf') format('opentype');
+}
 
 html {
 	font-size: 16px;
