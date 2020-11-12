@@ -191,3 +191,27 @@ footer span {
 	color: #77a466;
 	font-size: 0.875em;
 }
+
+@media all and (min-width:768px) {
+	/* Tablet styles here */
+	.bottom-section {
+
+	}
+	.section-one {
+
+	}
+	.section-two {
+
+	}
+	.section-three {
+
+	}
+}
+ 
+@media all and (min-width:1200px) {
+    /* Desktop styles here */
+	header nav ul {
+		display: flex;
+		justify-content: space-between;
+	  }
+}
